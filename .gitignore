@@ -25,3 +25,5 @@ stats.html
 *.njsproj
 *.sln
 *.sw?
+
+.history
